@@ -1,0 +1,33 @@
+.prof{
+    width:4.5rem;
+    height:4.5rem;
+}
+
+figcaption{
+    font-size: 12px;
+}
+
+.icons{
+    width: 1.5rem;
+    height: 7.5rem;
+}
+
+.hicon{
+    background: url("photos/licon.png") center/cover no-repeat;
+}
+
+.hicon:hover{
+    background: url("photos/hicon.png") center/cover no-repeat;
+}
+
+.navbg{
+    background-image:linear-gradient(45deg,green 50%, gray 50%) ;
+}
+
+body{
+    background: url("photos/bdbkg.png") center/cover no-repeat;
+}
+
+.bgcol{
+    height: 24rem;
+}
